@@ -18,9 +18,9 @@ Yes — in moderation. Choose lean cuts, trim visible fat, and limit processed m
 
 Yes — occasionally is the key word. Bake or grill fish at home more often, and if you do have takeaways, try:
 
-• Asking for grilled instead of battered
-• Skipping the extra salt
-• Sharing chips or swapping some for salad
+- Asking for grilled instead of battered
+- Skipping the extra salt
+- Sharing chips or swapping some for salad
 
 ## 🧈 5. Is butter really that bad? What about margarine?
 
@@ -34,10 +34,10 @@ Low-fat or reduced-fat milk is recommended for heart health — it has less satu
 
 Try:
 
-• Porridge with fruit and nuts
-• Eggs on wholegrain toast
-• Yoghurt with oats and berries
-• A smoothie with banana, milk, oats, and spinach
+- Porridge with fruit and nuts
+- Eggs on wholegrain toast
+- Yoghurt with oats and berries
+- A smoothie with banana, milk, oats, and spinach
 
 ## 🍚 8. Are rice and potatoes bad for my heart?
 
@@ -47,10 +47,10 @@ No — it's about portion size and what you eat with them. Choose brown rice or 
 
 Yes — occasionally, and in small portions. Try:
 
-• Fruit and yoghurt
-• Stewed fruit with oats
-• Dark chocolate (a couple squares)
-• Baking with less sugar or using fruit to sweeten
+- Fruit and yoghurt
+- Stewed fruit with oats
+- Dark chocolate (a couple squares)
+- Baking with less sugar or using fruit to sweeten
 
 ## 🥫 10. Are canned foods okay?
 
@@ -64,10 +64,10 @@ No supplements are needed for most people. You can get what your heart needs fro
 
 Not at all! It's never too late. Eating better can:
 
-• Improve your energy and digestion
-• Help medications work better
-• Reduce your risk of future events
-• Improve quality of life
+- Improve your energy and digestion
+- Help medications work better
+- Reduce your risk of future events
+- Improve quality of life
 
 ## 👩🏽‍🍳 13. How can I make healthier meals that my whole whānau will eat?
 

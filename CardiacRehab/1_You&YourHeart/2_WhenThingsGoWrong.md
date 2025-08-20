@@ -1,5 +1,7 @@
 # You and Your Heart - What happens when things go wrong?
 
+*[Placeholder for image - large]*
+
 ## Coronary Artery Disease (CAD)
 
 CAD occurs when the coronary arteries, which supply blood to the heart muscle, become narrowed due to the buildup of fatty deposits called plaques/atherosclerosis. This can reduce blood flow, leading to chest pain (**angina**) or heart attacks. Managing risk factors like high cholesterol, high blood pressure, your diabetes, and smoking is crucial in preventing CAD.

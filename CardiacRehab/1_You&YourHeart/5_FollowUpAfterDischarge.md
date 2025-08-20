@@ -10,6 +10,6 @@ You must fill your script on the day you are discharged (ideally in Wellington d
 
 ## Cardiology Follow Up
 
-• **Wellington, Kāpiti & Porirua residents** - you will receive a letter in the mail with details of your Cardiology Clinic follow up, typically around 3 months.
+- **Wellington, Kāpiti & Porirua residents** - you will receive a letter in the mail with details of your Cardiology Clinic follow up, typically around 3 months.
 
-• **Residents from outside the Wellington region** – we refer you back to your local hospital to arrange follow up if required. *If you have not received an appointment – you need to contact your hospital, please be wary some services have capacity constraints currently.*
+- **Residents from outside the Wellington region** – we refer you back to your local hospital to arrange follow up if required. *If you have not received an appointment – you need to contact your hospital, please be wary some services have capacity constraints currently.*

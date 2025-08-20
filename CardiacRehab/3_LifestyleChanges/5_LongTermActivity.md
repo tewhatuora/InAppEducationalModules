@@ -35,11 +35,11 @@ It is important to draw a line between exercise and being physically active, phy
 - **Common forms:** walking, jogging, cycling, swimming, dancing, rowing
 
 **Benefits include:**
-• Prevent & reverse muscle loss – especially post-operatively
-• Supports joints
-• Beneficial to prevent progression of frailty
-• Well tolerated if you have cardiovascular conditions
-• Improves functional performance if you have heart failure or coronary artery disease
+- Prevent & reverse muscle loss – especially post-operatively
+- Supports joints
+- Beneficial to prevent progression of frailty
+- Well tolerated if you have cardiovascular conditions
+- Improves functional performance if you have heart failure or coronary artery disease
 
 ### Resistance Training
 - **Frequency:** At least twice per week (not consecutive days)
@@ -47,13 +47,13 @@ It is important to draw a line between exercise and being physically active, phy
 - **Common forms:** using light home weights and body weight, gym sessions
 
 **Benefits include:**
-• Better blood sugar control
-• Reduced inflammation
-• Reduced fat around body organs (not subcutaneous)
-• Improved blood pressure control
-• Improved cholesterol metabolism
-• Improve muscle strength and function
-• Improved heart function (ventricle specifically)
+- Better blood sugar control
+- Reduced inflammation
+- Reduced fat around body organs (not subcutaneous)
+- Improved blood pressure control
+- Improved cholesterol metabolism
+- Improve muscle strength and function
+- Improved heart function (ventricle specifically)
 
 ---
 
@@ -70,8 +70,6 @@ March on the spot.
 
 Try to pick your knees up nice and high, aiming to have your thighs level with your hips.
 
-*[Placeholder for march on spot demonstration images]*
-
 ### 2. Chair Squat, Light Touch to Chair
 **Duration:** 1 Set • 15 Reps
 
@@ -82,8 +80,6 @@ Squat down as if you were sitting down (push pelvis back).
 Briefly touch the chair with your bottom and stand back up.
 
 **Note:** Keep hips, knees and toes aligned.
-
-*[Placeholder for chair squat demonstration images]*
 
 ### 3. Walking Lunge
 **Duration:** 1 Set • 10 Reps
@@ -98,8 +94,6 @@ Push up through the heel of your front leg, straighten the hip and knee and step
 - Keep hips, knees and toes aligned in both legs.
 - Keep your trunk active and maintain neutral back.
 
-*[Placeholder for walking lunge demonstration images]*
-
 ### 4. Buttock Kicks
 **Duration:** 1 Set • 20 Reps
 
@@ -109,14 +103,10 @@ Try to kick your heel up towards your buttock, keeping your thigh vertical as yo
 
 Continue on, alternating legs.
 
-*[Placeholder for buttock kicks demonstration images]*
-
 ### 5. Step Up - Alternating
 **Duration:** 1 Set • 20 Reps
 
 Stand in front of a stair or step. Place one foot up onto the step and when you are stable bring up the other foot. Repeat, starting with the other leg.
-
-*[Placeholder for step up demonstration images]*
 
 ### 6. Biceps Curls - Seated with Dumbbells
 **Duration:** 1 Set • 15 Reps • 2kg weight
@@ -128,8 +118,6 @@ Flex your arms simultaneously and bring the weights up towards your shoulders, c
 Lower the dumbbells back down until your elbows are fully extended.
 
 Ensure the movement remains within your arms and you are not using your hips or shoulders.
-
-*[Placeholder for biceps curls demonstration images]*
 
 ### 7. Triceps Extension - Bent Over Single Arm with Dumbbell
 **Duration:** 1 Set • 15 Reps • 1kg weight
@@ -144,8 +132,6 @@ Extend your elbow until the arm is parallel to the ground
 
 Complete the set on one side before repeating with the opposite arm.
 
-*[Placeholder for triceps extension demonstration images]*
-
 ### 8. Dumbbell Lateral Raise
 **Duration:** 1 Set • 15 Reps • 1kg weight
 
@@ -154,8 +140,6 @@ Stand tall holding dumbbells in both hands with your arms straight.
 Raise your arms sideways up to shoulder level with your palms facing downward and your elbows straight. Return to the starting position in a controlled manner.
 
 **Note:** Do not shrug your shoulders.
-
-*[Placeholder for dumbbell lateral raise demonstration images]*
 
 ---
 
@@ -168,7 +152,7 @@ Don't forget the value of social and community interaction you can get through e
 Embedding exercise into your weeks will create long term benefits. Thinking about ways that you can meet exercise guidelines for a healthy heart is very important for you
 
 **Your community may have:**
-• Walking groups
-• Activity groups eg yoga, tai chi, dance etc
+- Walking groups
+- Activity groups eg yoga, tai chi, dance etc
 
 **Green prescription** – Nuku Ora has a great directory of these and there's a great website for subsidised gym memberships in Wellington (applies only to first time gymers)

@@ -2,24 +2,24 @@
 *(from My Heart Journey book)*
 
 ## Heart Foundation
-• Living well after a heart attack booklet
-• Heart Foundation website ([heartfoundation.org.nz](https://heartfoundation.org.nz))
+- Living well after a heart attack booklet
+- Heart Foundation website ([heartfoundation.org.nz](https://heartfoundation.org.nz))
 
 ## For Health Information and Self-Care Resources
-• Healthify He Puna Waiora website (previously Health Navigator NZ) ([healthify.nz](https://healthify.nz))
+- Healthify He Puna Waiora website (previously Health Navigator NZ) ([healthify.nz](https://healthify.nz))
 
 ## Helpful Services
-• **Green prescription** (community exercise support)
-• **Quitline** (quit smoking support)
-• **Community alcohol and drug services (CADS)**
+- **Green prescription** (community exercise support)
+- **Quitline** (quit smoking support)
+- **Community alcohol and drug services (CADS)**
 
 ## Positive Coping Resources
-• **1737 – Need to Talk?** Service: Free to call or text 24/7 for additional support
-• **Just a Thought** – online learning tool
-• **Groov by Mentemia** (phone app)
-• **Headspace** (phone app)
-• **Mental Health Foundation website** ([mentalhealth.org.nz](https://mentalhealth.org.nz))
-• **Wellness support via your family doctor (GP)**
+- **1737 – Need to Talk?** Service: Free to call or text 24/7 for additional support
+- **Just a Thought** – online learning tool
+- **Groov by Mentemia** (phone app)
+- **Headspace** (phone app)
+- **Mental Health Foundation website** ([mentalhealth.org.nz](https://mentalhealth.org.nz))
+- **Wellness support via your family doctor (GP)**
 
 ---
 

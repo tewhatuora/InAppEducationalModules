@@ -19,23 +19,21 @@ If you develop angina, using GTN spray can help to relieve your symptoms by open
 
 ## Follow the 3 steps on the angina action plan when using GTN spray
 
-*[Placeholder for 3-step action plan image]*
-
 ### Step 01
-• If you are having angina symptoms, stop what you are doing and rest now
-• Tell someone how you are feeling
-• Take 1 puff of your GTN spray
+- If you are having angina symptoms, stop what you are doing and rest now
+- Tell someone how you are feeling
+- Take 1 puff of your GTN spray
 
 *Wait 5 minutes*
 
 ### Step 02
-• If you still have symptoms after 5 mins, take 1 more puff of your GTN spray
+ If you still have symptoms after 5 mins, take 1 more puff of your GTN spray
 
 *Wait 5 minutes*
 
 ### Step 03
-• If you still have symptoms after another 5 minutes, treat it as a heart attack - **dial 111 and ask for an ambulance**
-• Chew an aspirin if advised by a paramedic
+- If you still have symptoms after another 5 minutes, treat it as a heart attack - **dial 111 and ask for an ambulance**
+- Chew an aspirin if advised by a paramedic
 
 ---
 

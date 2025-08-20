@@ -28,11 +28,11 @@ Vaping is less harmful than smoking, but it's not risk-free. It can be a short-t
 
 ## What can I do when I get cravings?
 
-• Go for a walk
-• Drink a glass of water
-• Breathe deeply or chew gum
-• Call a mate or talk to whānau
-• Distract yourself — cravings usually pass in 5-10 minutes
+- Go for a walk
+- Drink a glass of water
+- Breathe deeply or chew gum
+- Call a mate or talk to whānau
+- Distract yourself — cravings usually pass in 5-10 minutes
 
 ## Will I gain weight if I quit?
 
@@ -46,8 +46,8 @@ Yes — nicotine patches, gum, and lozenges are safe for most people, even after
 
 **You don't have to.**
 
-• **Quitline** 0800 778 778 / text 4006
-• **Māori or Pasifika stop-smoking services**
-• **Your GP or cardiac nurse**
-• **Some marae or churches** have support groups
-• **Whānau** — they can walk the journey with you
+- **Quitline** 0800 778 778 / text 4006
+- **Māori or Pasifika stop-smoking services**
+- **Your GP or cardiac nurse**
+- **Some marae or churches** have support groups
+- **Whānau** — they can walk the journey with you

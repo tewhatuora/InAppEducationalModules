@@ -8,15 +8,11 @@ Some medications can cause side effects such as dizziness, an upset stomach, tir
 
 ## Cost of Medication
 
-Often you will have to pay a small fee when you collect a prescription, which can vary depending on the medication and the pharmacy—so it's worth comparing prices locally. The Government runs a [prescription subsidy scheme](https://healthify.nz/medicines-a-z/p/prescription-subsidy-scheme) for individuals and families who are prescribed a lot of medication. Once you or your family has paid for 20 new prescription items in one year, any further prescriptions will be free until the following year. You may also qualify for reduced costs with a [Community Services Card](https://healthify.nz/medicines-a-z/c/community-services-card) or [High Use Health Card](https://healthify.nz/medicines-a-z/h/high-use-health-card) (if you've had 12+ GP visits in a year). Speak to your pharmacist to see what you're eligible for.
+Often you will have to pay a small fee when you collect a prescription, which can vary depending on the medication and the pharmacy—so it's worth comparing prices locally. The Government runs a [prescription subsidy scheme](https://www.govt.nz/browse/health/gps-and-prescriptions/prescription-subsidy-scheme/#possible-prescription-costs-7340) for individuals and families who are prescribed a lot of medication. Once you or your family has paid for 20 new prescription items in one year, any further prescriptions will be free until the following year. You may also qualify for reduced costs with a [Community Services Card](https://www.workandincome.govt.nz/products/a-z-benefits/community-services-card.html) or [High Use Health Card](https://www.govt.nz/browse/health/financial-help/high-use-health-card/) (if you've had 12+ GP visits in a year). Speak to your pharmacist to see what you're eligible for.
 
 ## Taking It Right
 
 Make sure you understand when and how to take your medication. Misunderstandings can lead to missed doses or incorrect usage, impacting your treatment's effectiveness. If you are unsure, ask your doctor or pharmacist.
-
-Here's a video that explains why it's important to take your medications at the same time, every day:
-
-[Watch: Taking Medicines Video](https://youtu.be/gQZhVyZRJ8w?si=_uvrEl4FgAPwkH5Z)
 
 ---
 

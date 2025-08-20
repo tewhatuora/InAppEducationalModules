@@ -50,4 +50,4 @@ Includes info on diet, stress, rehab, blood pressure, and cholesterol
 
 **App:** Free on iOS and Android
 
-**Website:** [heartfoundation.org.au](https://heartfoundation.org.au)
+**Website:** [heartfoundation.org.au](https://www.heartfoundation.org.au/)

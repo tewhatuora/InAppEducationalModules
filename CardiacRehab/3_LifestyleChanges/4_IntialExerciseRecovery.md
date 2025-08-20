@@ -37,8 +37,6 @@ This will help your heart muscle slowly recover and strengthen in the initial re
 
 For those post cardiac surgery, for the first 6 weeks you must **'move in the tube'**
 
-*[Placeholder for cylindrical tube diagram]*
-
 Moving within the tube is movement that you can do with your body, within a visual cylinder. Especially important with upper limbs.
 
 The strain exerted on the sternum from pectoral muscles, if movement is away from the body (not within the visual 'tube' field) has a higher force. This can increase the risk of sternal complications in the recovery stage.
@@ -53,5 +51,3 @@ You can progress to moving outside the tube as pain and confidence allows! Remem
 - **✅ CORRECT:** A golf putt is within the tube  
 - **✅ CORRECT:** Standing up from sitting with arms crossed across body is within the tube
 - **❌ INCORRECT:** Pushing yourself up, one sided off an arm rest is not
-
-*[Placeholder for movement demonstration images showing correct (green) and incorrect (red) movements]*

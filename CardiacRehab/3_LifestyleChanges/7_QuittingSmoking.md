@@ -16,9 +16,9 @@ Even if you've smoked for decades, **your body starts healing within hours of qu
 
 ## Māori & Pasifika Support
 
-• **Auahi KaiPaipa** (Māori stop smoking service)
-• **Pacific Quit Services** — Pasifika-led teams who understand cultural and community needs
-• **Some PHOs or marae-based health services** offer tailored support — check with your local team.
+- **Auahi KaiPaipa** (Māori stop smoking service)
+- **Pacific Quit Services** — Pasifika-led teams who understand cultural and community needs
+- **Some PHOs or marae-based health services** offer tailored support — check with your local team.
 
 ---
 

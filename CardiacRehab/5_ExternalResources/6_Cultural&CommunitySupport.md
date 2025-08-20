@@ -25,14 +25,14 @@ Framework for total wellbeing: tinana, hinengaro, wairua, whānau
 
 Encourages holistic healing — works well with whānau and kaumātua
 
-**Website:** [healthnavigator.org.nz/te-whare-tapa-wha](https://healthnavigator.org.nz/te-whare-tapa-wha)
+**Website:** [healthnavigator.org.nz/te-whare-tapa-wha](https://healthify.nz/hauora-wellbeing/t/te-whare-tapa-wha-and-wellbeing)
 
 ### Māori Health Providers & Marae-Based Services
 Some offer cardiac rehab support, mirimiri, rongoā Māori
 
 Help with whānau engagement and culturally safe care
 
-Use [maorihealthproviders.co.nz](https://maorihealthproviders.co.nz) to find local services
+Use [www.mcnz.org.nz](https://www.mcnz.org.nz/support/support-for-patients/find-a-maori-health-provider/) to find local services
 
 ### Pasifika Futures / Ola manuia resources
 Holistic Pasifika-focused health tools

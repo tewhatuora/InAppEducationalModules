@@ -1,4 +1,4 @@
-# TREATMENTS for Heart Disease
+# Treatments for Heart Disease
 
 ## Angioplasty and Stents (PCI)
 
@@ -11,8 +11,6 @@ CABG is performed when coronary arteries have numerous blockages or when the blo
 ## Heart Valve Surgery
 
 When heart valves are damaged or diseased, they may require repair or replacement. They can become stiff, calcified or leaky and this impairs the flow of blood through the heart, contributing to symptoms such as dizziness, shortness of breath or syncope. Replacement or Repair techniques include strengthening the valve or repairing supporting structures, while replacement involves substituting the faulty valve with a mechanical or biological one.
-
-*[Placeholder for heart valve diagram showing Pulmonary Valve, Mitral Valve, Tricuspid Valve, and Aortic Valve]*
 
 ## Pacemakers and Implantable Cardioverter Defibrillators (ICDs)
 

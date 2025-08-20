@@ -14,29 +14,29 @@ Mental health and heart health are closely linked — people with ongoing stress
 
 ### Stress
 
-• Feeling tense, restless, or wound-up
-• Sleep problems
-• Snapping at people, irritability
-• Muscle tightness or stomach issues
-• Racing thoughts
+- Feeling tense, restless, or wound-up
+- Sleep problems
+- Snapping at people, irritability
+- Muscle tightness or stomach issues
+- Racing thoughts
 
 Stress can increase blood pressure and make the heart work harder. Long-term stress may raise levels of inflammation in the body — something that's bad news for heart health.
 
 ### Anxiety
 
-• Constant worrying or panic
-• Fear about your health, the future, or another heart event
-• Racing heart or breathlessness
-• Avoiding physical activity because it "feels unsafe"
+- Constant worrying or panic
+- Fear about your health, the future, or another heart event
+- Racing heart or breathlessness
+- Avoiding physical activity because it "feels unsafe"
 
 People recovering from heart events sometimes confuse normal recovery symptoms (like shortness of breath) with anxiety symptoms. That overlap can make anxiety worse.
 
 ### Depression
 
-• Feeling down, flat, or numb for more than two weeks
-• Loss of interest in things you used to enjoy
-• Trouble sleeping or sleeping too much
-• Changes in appetite or weight
-• Withdrawing from friends and whānau
+- Feeling down, flat, or numb for more than two weeks
+- Loss of interest in things you used to enjoy
+- Trouble sleeping or sleeping too much
+- Changes in appetite or weight
+- Withdrawing from friends and whānau
 
 Depression isn't just "feeling sad" — it's a real condition that affects your energy, motivation, and ability to look after your health.
