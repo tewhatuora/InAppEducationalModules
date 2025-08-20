@@ -40,8 +40,6 @@ In between chambers, your heart has **valves** that work like one-way doors, kee
 
 - **Aortic Valve:** Between the left ventricle and the aorta, which distributes blood to the body.
 
-[Click here to watch a 2min video showing how your heart works](https://www.talkingaboutmedicines.com/videos/v/how-the-heart-works)
-
 ### Heart Wall
 
 The walls of your heart are composed of three layers, each with a specific function essential to your heart's operation:
