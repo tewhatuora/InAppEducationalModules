@@ -1,6 +1,6 @@
 # Your Heart
 
-**Video:** [How your heart works – Heart Foundation NZ](https://www.talkingaboutmedicines.com/videos/v/how-the-heart-works)
+**Video:** [How your heart works – Heart Foundation NZ](https://www.heartfoundation.org.nz/your-heart/how-the-heart-works)
 
 Your heart is a vital muscular organ, approximately the size of your clenched fist, which powers the body. Its primary function is to pump blood throughout your body, delivering oxygen and nutrients to every cell, nerve, muscle and vital organ and removing waste products like carbon dioxide.
 
