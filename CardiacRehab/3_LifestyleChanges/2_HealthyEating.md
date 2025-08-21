@@ -9,6 +9,8 @@ Cardiac rehab isn't just about physical recovery — it's also about giving your
 
 Eating well for your heart doesn't mean giving up your culture or favourite meals. It means finding balance — and making small changes that support your health, your whānau, and your future.
 
+*[Placeholder for image - large]*
+
 ---
 
 ## Fruit & Vegetables
@@ -65,6 +67,8 @@ Eating well for your heart doesn't mean giving up your culture or favourite meal
 - **1 serve =** 250ml glass of milk, 40g cheese (2 slices), ¾ cup (200g) yoghurt, 1 cup (250ml) calcium-fortified plant-based milk alternatives (e.g. soy, rice, almond, oat milk)
 - **Plant based milks:** Look for on the label and added calcium. Aim for more than 120g Calcium/100ml. The more protein the better. Compare by looking at the per 100g column
 
+*[Placeholder for image - large]*
+
 ---
 
 ## Nuts & Seeds
@@ -86,6 +90,8 @@ Sugar adds extra calories to food that we don't need. Because it doesn't fill us
 ### Cutting Back on Salt
 
 Most of us eat far too much salt – in fact, one and a half times the recommended maximum intake. So try taking a lighter hand to the salt shaker, or better still, ditch the salt altogether. Even more importantly, check food labels for the salt content (salt is listed as sodium on labels), and go for lower sodium options.
+
+*[Placeholder for image - large]*
 
 ### Cutting Back on Saturated and Trans Fats
 

@@ -2,6 +2,8 @@
 
 When it comes to managing heart health, it's not just about medications or procedures—**your daily habits matter too**. Making positive lifestyle changes can significantly improve your recovery and help prevent future heart issues.
 
+*[Placeholder for image - large]*
+
 ## Eat for Your Heart
 
 Adopting a heart-healthy diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats to support cardiovascular health. 

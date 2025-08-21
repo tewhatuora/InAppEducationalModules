@@ -30,6 +30,8 @@ Review what triggered you and try again. **Every smoke-free day helps your heart
 
 ---
 
+*[Placeholder for image - large]*
+
 ## Support Resources
 
 *[Placeholder for Heart Foundation smoking cessation infographic showing:]*

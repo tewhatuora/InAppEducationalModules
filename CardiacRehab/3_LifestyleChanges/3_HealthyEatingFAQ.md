@@ -1,5 +1,7 @@
 # Heart-Healthy Eating FAQ
 
+*[Placeholder for image - small]*
+
 ## 🧂 1. Do I really have to cut out salt completely?
 
 Not completely, but reducing salt helps lower blood pressure.
