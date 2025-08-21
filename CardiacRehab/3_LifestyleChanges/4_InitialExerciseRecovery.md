@@ -45,9 +45,6 @@ You should think about undertaking all activities bilaterally, keep loads close 
 
 You can progress to moving outside the tube as pain and confidence allows! Remember, pain is the guide.
 
-**Examples:**
-- **✅ CORRECT:** Lifting a bag should be close to the body as oppose to with arms extended
-- **❌ INCORRECT:** A golf swing is not within the tube
-- **✅ CORRECT:** A golf putt is within the tube  
-- **✅ CORRECT:** Standing up from sitting with arms crossed across body is within the tube
-- **❌ INCORRECT:** Pushing yourself up, one sided off an arm rest is not
+*[Placeholder for image - small]*
+
+*[Placeholder for image - small]*
