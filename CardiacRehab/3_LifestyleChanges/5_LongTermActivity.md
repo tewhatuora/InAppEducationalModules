@@ -129,7 +129,7 @@ Lower the dumbbells back down until your elbows are fully extended.
 
 Ensure the movement remains within your arms and you are not using your hips or shoulders.
 
-*[Placeholder for Image - small]*
+*[Placeholder for image - small]*
 
 ### 7. Triceps Extension - Bent Over Single Arm with Dumbbell
 **Duration:** 1 Set • 15 Reps • 1kg weight
@@ -144,7 +144,7 @@ Extend your elbow until the arm is parallel to the ground
 
 Complete the set on one side before repeating with the opposite arm.
 
-*[Placeholder for Image - small]*
+*[Placeholder for image - small]*
 
 ### 8. Dumbbell Lateral Raise
 **Duration:** 1 Set • 15 Reps • 1kg weight
@@ -155,7 +155,7 @@ Raise your arms sideways up to shoulder level with your palms facing downward an
 
 **Note:** Do not shrug your shoulders.
 
-*[Placeholder for Image - small]*
+*[Placeholder for image - small]*
 
 ---
 
