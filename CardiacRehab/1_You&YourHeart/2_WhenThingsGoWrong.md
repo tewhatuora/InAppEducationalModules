@@ -58,8 +58,6 @@ Think of heart valves as **doors that control water flow** between rooms. If a d
 
 Cardiac arrest occurs when the heart suddenly stops beating, causing a loss of consciousness and normal breathing. It is often caused by an electrical malfunction in the heart. Immediate actions like calling emergency services, performing CPR, and using a defibrillator can save lives. Unlike a heart attack, which involves a blockage, **cardiac arrest refers to the heart being unable to effectively pump blood**. Quick intervention is critical for survival.
 
-[Watch: Cardiac Arrest Explanation](https://www.youtube.com/watch?v=7MjxJH_Dw4)
-
 ---
 
 Imagine if your house **suddenly loses all power**—the lights go out, the water stops flowing, and nothing works. This is like **cardiac arrest**, where the heart's **electrical system suddenly fails**, causing it to stop beating.
