@@ -14,7 +14,7 @@ The heart has its own electrical system that controls your heartbeat. Regular el
 
 ### Chambers
 
-*[Placeholder for image - large]*
+![large image](https://raw.githubusercontent.com/tewhatuora/InAppEducationalModules/main/CardiacRehab/images/1_YourHeart_1_large.png)
 
 The heart consists of four chambers—two upper chambers (atria) and two lower chambers (ventricles). Here's how it works:
 
@@ -28,7 +28,7 @@ The heart consists of four chambers—two upper chambers (atria) and two lower c
 
 ### Valves
 
-*[Placeholder for image - large]*
+![large image](https://raw.githubusercontent.com/tewhatuora/InAppEducationalModules/main/CardiacRehab/images/1_YourHeart_2_large.png)
 
 In between chambers, your heart has **valves** that work like one-way doors, keeping blood moving in the right direction. Four valves ensure unidirectional blood flow through the heart:
 
@@ -50,7 +50,7 @@ The walls of your heart are composed of three layers, each with a specific funct
 
 ## Blood Vessels
 
-*[Placeholder for image - large]*
+![large image](https://raw.githubusercontent.com/tewhatuora/InAppEducationalModules/main/CardiacRehab/images/1_YourHeart_3_large.png)
 
 Your body has a network of blood vessels that transport blood to and from the heart, ensuring oxygen and nutrients reach every part of the body. There are three main types of blood vessels:
 
@@ -62,7 +62,7 @@ Your body has a network of blood vessels that transport blood to and from the he
 
 ## Coronary Arteries
 
-*[Placeholder for image - large]*
+![large image](https://raw.githubusercontent.com/tewhatuora/InAppEducationalModules/main/CardiacRehab/images/1_YourHeart_4_large.png)
 
 Your **coronary arteries** are the small blood vessels that **supply your heart with oxygen and nutrients**. Just like your body needs blood to stay healthy, your heart muscle needs its own blood supply to keep pumping.
 
@@ -76,18 +76,12 @@ Your **coronary arteries** are the small blood vessels that **supply your heart 
 - [Blood Supply to the Heart](https://www.talkingaboutmedicines.com/videos/v/blood-supply-to-the-heart)
 - [How Are Blood Clots Formed](https://www.talkingaboutmedicines.com/videos/v/how-are-blood-clots-formed)
 
----
 
-**Think of your heart like a house, with a plumbing and electrical system.**
-
-**Walls (Heart Muscle):** Strong walls keep the house standing, just like your heart muscle pumps blood around your body.
-
-**Rooms (Heart Chambers):** Your house has different rooms for different purposes—your heart has four chambers that separate oxygen-rich and oxygen-poor blood.
-
-**Doors (Heart Valves):** Doors open and close to control movement—your valves do the same, ensuring blood flows in the right direction.
-
-**Pipes (Blood Vessels):** Just like plumbing carries water, your arteries and veins transport oxygen and nutrients to your body.
-
-**Electrical System (Heart's Rhythm):** Your house needs wiring to power everything—your heart has an electrical system that keeps it beating steadily.
-
-If any part of the house weakens, repairs (medications, procedures, lifestyle changes) can help keep it strong and working well.
+> ![icon](https://icon.png) House analogy
+>> **Think of your heart like a house, with a plumbing and electrical system.**
+>> **Walls (Heart Muscle):** Strong walls keep the house standing, just like your heart muscle pumps blood around your body.
+>> **Rooms (Heart Chambers):** Your house has different rooms for different purposes—your heart has four chambers that separate oxygen-rich and oxygen-poor blood.
+>> **Doors (Heart Valves):** Doors open and close to control movement—your valves do the same, ensuring blood flows in the right direction.
+>> **Pipes (Blood Vessels):** Just like plumbing carries water, your arteries and veins transport oxygen and nutrients to your body.
+>> **Electrical System (Heart's Rhythm):** Your house needs wiring to power everything—your heart has an electrical system that keeps it beating steadily.
+>> If any part of the house weakens, repairs (medications, procedures, lifestyle changes) can help keep it strong and working well.
