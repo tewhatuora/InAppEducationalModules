@@ -10,7 +10,7 @@
             }
         },
         "Ngati_Porou_Oranga": {
-            "Region_Name": "Ngati_Porou_Oranga",
+            "Region_Name": "Ngati Porou Oranga",
             "G04805-A": {
                 "F2X046-A": "Tawhiti",
                 "F2L000-K": "Rautoria",
@@ -35,7 +35,7 @@
     },
     "Chronic_Obstructive_Pulmonary_Disease": {
         "Chatham_Islands": {
-            "Region_Name": "Chatham_Islands",
+            "Region_Name": "Chatham Islands",
             "G08342-G": {
                 "F2V023-A": "Chatham_Islands",
                 "Org_Name": "Chatham Islands Health Centre"
