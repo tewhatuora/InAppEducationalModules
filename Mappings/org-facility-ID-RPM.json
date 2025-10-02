@@ -36,7 +36,7 @@
     "Chronic_Obstructive_Pulmonary_Disease": {
         "Chatham_Islands": {
             "Region_Name": "Chatham_Islands",
-            "GO8342-G": {
+            "G08342-G": {
                 "F2V023-A": "Chatham_Islands",
                 "Org_Name": "Chatham Islands Health Centre"
             }
